@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☕ MangÜareo Suite v4.2
 
 > **"Nuestra GPU camella en local."** > Un entorno de desarrollo frontend autónomo, interactivo y con inspección visual estéril corriendo 100% en local.
@@ -44,3 +45,7 @@ Bash
 node manguareo.mjs
 ¡A mangüarear!
 Abre tu navegador en http://localhost:3000, escribe tus requerimientos estéticos en el panel y observa cómo el agente autónomo maqueta tu aplicación iteración tras iteración.
+=======
+# Manguareo_Suite
+> **"Nuestra GPU camella en local."** > Un entorno de desarrollo frontend autónomo, interactivo y con inspección visual estéril corriendo 100% en local.
+>>>>>>> c65aca02d6ffd7c61ffc76c1088053db124c422f
